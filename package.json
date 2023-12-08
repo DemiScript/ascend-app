@@ -26,6 +26,7 @@
     "uuid": "^9.0.1"
   },
   "devDependencies": {
+    "@types/uuid": "^9.0.7",
     "daisyui": "^4.4.19",
     "json-server": "^0.17.4"
   }
